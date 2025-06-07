@@ -16,10 +16,8 @@
   },
   "interests": [
     { "name": "Software Engineer" },
-    { "name": "App Development" },
-    { "name": "Machine Learning" },
-    { "name": "" },
-    { "name": "" }
+    { "name": "Web Development" },
+    { "name": "Machine Learning" }
   ],
   "skills": [
     {
