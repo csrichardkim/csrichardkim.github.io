@@ -6,7 +6,9 @@ title: "Positive Punishment Timer"
 date: 2024
 published: true
 labels:
-  - HTML/CSS/JavaScript
+  - HTML
+  - CSS
+  - JavaScript
   - Chrome Extension
 summary: "A chrome extension that shows AI generated insults every 1 or 10 minutes"
 ---
