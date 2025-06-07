@@ -9,10 +9,12 @@ labels:
   - HTML
   - CSS
   - JavaScript
+    
 summary: "A chrome extension that shows AI generated insults every 1 or 10 minutes"
 ---
 
 <div class="text-center p-4">
+  <img width="200px" src="../img/Screenshot 2025-06-06 220208.png" class="img-thumbnail" >
   <img width="200px" src="../img/Screenshot 2025-06-06 203733.png" class="img-thumbnail" >
   <img width="200px" src="../img/Screenshot 2025-06-06 203546.png" class="img-thumbnail" >
 </div>
