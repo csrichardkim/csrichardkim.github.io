@@ -6,7 +6,7 @@ title: "From Java to Typescript"
 date: 2025-6-6
 published: true
 labels:
-  - Engineering
+  - Typescript
 ---
 
 My first encounter with TypeScript was from the perspective of a student who had learned Java throughout college. 
@@ -22,7 +22,7 @@ TypeScript, much like Java, allows for static type checking. In Java, you declar
 
 Incorporating HTML also gave me the full toolkit to build an actual website from scratch. This was especially exciting because it allowed me to bring concepts to life visually, something I hadn’t done much working in Java and something that introduced me to Computer Science in the first place.
 
-## WOD...
+## WOD
 
 One of the most unique elements of this learning experience was the inclusion of WODs (Workouts of the Day). 
 
