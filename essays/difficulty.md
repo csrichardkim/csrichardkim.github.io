@@ -38,4 +38,4 @@ It's amazing to see how bits of pieces, whether from languages or concepts, ties
  
 
 ## Note on AI
-I prompted Claude with my own typed answers to the essay's questions, and asked it to format my paragraphs into an essay. It provided the structure and additional grammatical checks. Mahalo.
+I prompted Claude with my own typed answers to the essay's questions, and asked it to format my paragraphs into an essay. It provided the structure and additional grammatical checks. Mahalo for listening.
