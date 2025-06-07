@@ -1,54 +1,36 @@
 ---
 layout: essay
 type: essay
-title: "The difficult things will always be difficult"
+title: "From Java to Typescript"
 # All dates must be YYYY-MM-DD format!
-date: 2016-02-06
+date: 2025-6-6
 published: true
 labels:
   - Engineering
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+My first encounter with TypeScript was from the perspective of a student who had learned Java throughout college. 
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+Coming from an object oriented, strongly typed programming background, TypeScript was quite a nice surprise. Although it builds on top of JavaScript which is dynamically typed and loosely structured, TypeScript manages to bridge the gap between ease of scripting and the more serious aspects of formal software engineering. I quickly noticed that TypeScript function calls and class structures bore strong similarities to how Java handles object oriented design, which made the learning curve less steep and frankly enjoyable.
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+## Comparing the Two
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+I personally found the learning curve for TypeScript less steep than other languages, which is ironic considering how confusing a language JavaScript is. 
 
-Here's what I think: the difficult things will always be difficult.
+TypeScript, much like Java, allows for static type checking. In Java, you declare variables with specific types (e.g., String, int, double), and TypeScript brings this discipline to JavaScript with types like string, number, boolean, etc. This static typing makes both languages more robust, especially during development, as many errors are caught at compile time rather than at runtime. TypeScript also supports ES6-style classes, interfaces, inheritance, and access modifiers such as public, private, and protected, which Java developers are already familiar with.
 
-## In the context of programming
+Incorporating HTML also gave me the full toolkit to build an actual website from scratch. This was especially exciting because it allowed me to bring concepts to life visually, something I hadn’t done much working in Java and something that introduced me to Computer Science in the first place.
 
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
+## WOD...
 
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
+One of the most unique elements of this learning experience was the inclusion of WODs (Workouts of the Day). 
 
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
+These practice exercises changed the way I approached coding. Rather than passive learning or cramming before deadlines, WODs forced me to treat programming like  training for a sports competition: consistent, timed, and structured. This style of learning felt more realistic and sustainable, especially in a field where skills need to be constantly sharpened.
 
-## In the context of engineering
+It develops problem solving speed and accuracy under pressure, which mirrors real-world scenarios like coding interviews or sprint-based development work. Yes, it was stressful at times, but also incredibly rewarding. The structure helped me stay focused and develop a sense of discipline just like an athlete.
 
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
 
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
+## In Conclusion
 
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+It's amazing to see how bits of pieces, whether from languages or concepts, ties into each other. This is what makes computer science so intresting and I can't wait to see how we can further incoorperate our knowledge into using typescript and more. Mahalo for listening. 
