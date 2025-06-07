@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/Screenshot 2025-06-06 205256.png
-title: "Positive Punishment Timer"
+title: "Positive Punishment"
 date: 2024
 published: true
 labels:
