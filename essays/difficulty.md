@@ -33,4 +33,9 @@ It develops problem solving speed and accuracy under pressure, which mirrors rea
 
 ## In Conclusion
 
-It's amazing to see how bits of pieces, whether from languages or concepts, ties into each other. This is what makes computer science so intresting and I can't wait to see how we can further incoorperate our knowledge into using typescript and more. Mahalo for listening. 
+It's amazing to see how bits of pieces, whether from languages or concepts, ties into each other. This is what makes computer science so interesting and I can't wait to see how we can further incoorperate our knowledge into using typescript, and more. 
+
+
+
+## Note on AI
+I prompted Claude with typed answers to the essay's questions, and asked it to format my paragraphs into an essay. It provided the structure and additional grammatical checks. Some sentences are incoorperated into the final work. Mahalo.
