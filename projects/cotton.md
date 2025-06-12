@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Screenshot 2025-06-11 220809.png
+image: img/Screenshot 2025-06-11 222828.png
 title: "WeatherApp"
 date: 2024
 published: true
