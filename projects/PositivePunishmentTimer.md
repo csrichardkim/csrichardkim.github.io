@@ -10,6 +10,7 @@ labels:
   - CSS
   - JavaScript
     
+    
 summary: "A chrome extension that shows AI generated insults every 1 or 10 minutes"
 ---
 
