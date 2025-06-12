@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: https://github.com/richardkimm/richardkimm.github.io/blob/main/img/Screenshot%202025-05-12%20131744.png
 title: "DinoRun"
 date: 2024
 published: true
@@ -12,9 +12,8 @@ summary: "An endless runner game for accessibility"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="[(https://github.com/richardkimm/richardkimm.github.io/blob/main/img/Screenshot%202025-05-12%20131818.png)" >
+
 </div>
 
 DinoRun is a simple game made for my SPED201 final project. It's a walkthrough on how developers can create applications whilst keeping accessibility in mind. It showcases visual, audio, and motor features all under the 'option' menu. The two most notable features of the game is it's character selection option, and a voice control option in which you can play the game using your voice.
