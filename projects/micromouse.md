@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Screenshot 2025-05-12 131744.png
+image: img/Screenshot 2025-06-11 215504.png
 title: "DinoRun"
 date: 2024
 published: true
