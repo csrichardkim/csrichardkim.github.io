@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ![image](https://github.com/user-attachments/assets/810d8897-8eb2-44c4-bd58-8548cc6aa788)
+image: img/weather-app-01-1920x1080.png
 title: "WeatherApp"
 date: 2024
 published: true
