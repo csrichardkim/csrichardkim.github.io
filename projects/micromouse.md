@@ -9,7 +9,7 @@ labels:
   - GDevlop
   - JavaScript
     
-summary: "A chrome extension that shows AI generated insults every 1 or 10 minutes"
+summary: "An endless runner game for accessibility"
 ---
 
 <div class="text-center p-4">
