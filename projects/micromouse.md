@@ -1,8 +1,7 @@
 ---
 layout: project
 type: project
-image: ![Screenshot 2025-05-12 131744](https://github.com/user-attachments/assets/cbd6d2ed-3b17-4e9e-8f8a-5608b195877d)
-
+image: img/Screenshot 2025-05-12 131744.png 
 title: "DinoRun"
 date: 2024
 published: true
@@ -13,7 +12,7 @@ summary: "An endless runner game for accessibility"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="![Screenshot 2025-05-12 131834](https://github.com/user-attachments/assets/e0ea510b-f92c-4177-bb4c-89b3f89261d2) >
+  <img width="200px" src="../img/Screenshot 2025-05-12 131818.png>
 
 </div>
 
