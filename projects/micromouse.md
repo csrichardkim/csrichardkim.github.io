@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: ![Screenshot 2025-05-12 131834](https://github.com/user-attachments/assets/e7c33828-f6aa-4425-b273-52b4283b66ae)
+image: ![Screenshot 2025-05-12 131744](https://github.com/user-attachments/assets/cbd6d2ed-3b17-4e9e-8f8a-5608b195877d)
 
 title: "DinoRun"
 date: 2024
@@ -13,7 +13,7 @@ summary: "An endless runner game for accessibility"
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="[(https://github.com/richardkimm/richardkimm.github.io/blob/main/img/Screenshot%202025-05-12%20131818.png)" >
+  <img width="200px" src="![Screenshot 2025-05-12 131834](https://github.com/user-attachments/assets/e0ea510b-f92c-4177-bb4c-89b3f89261d2) >
 
 </div>
 
