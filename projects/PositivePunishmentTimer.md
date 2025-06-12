@@ -4,7 +4,7 @@ type: project
 image: img/Screenshot 2025-06-06 205256.png
 title: "Positive Punishment"
 date: 2024
-published: true
+published: false
 labels:
   - HTML
   - CSS
