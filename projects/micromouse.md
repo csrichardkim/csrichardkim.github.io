@@ -1,7 +1,8 @@
 ---
 layout: project
 type: project
-image: https://github.com/richardkimm/richardkimm.github.io/blob/main/img/Screenshot%202025-05-12%20131744.png
+image: ![Screenshot 2025-05-12 131834](https://github.com/user-attachments/assets/e7c33828-f6aa-4425-b273-52b4283b66ae)
+
 title: "DinoRun"
 date: 2024
 published: true
