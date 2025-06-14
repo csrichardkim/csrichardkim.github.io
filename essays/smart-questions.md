@@ -54,7 +54,8 @@ That is a real question a user put up. Anyone reading that alone has none of the
 
 The answer response to the question is straightforward. It is simple with one line of fix and they don’t explain any more than the answer. It feels like if more of the problem was shared, it would have been a better learning experience for the asker and other people. The question has 2 downvotes and is now closed, which shows that it was a question that required a quick fix and did not provide any meaningful discussion.
 
-Link to question
+Link to Question:
+
 [A Not So Smart Question](https://stackoverflow.com/questions/21605812/simple-code-doesnt-work-dunno-why)
 
  
