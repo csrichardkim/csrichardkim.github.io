@@ -15,7 +15,7 @@ labels:
 
 ## Why Questions Matter
 
-Communication is a cornerstone of software engineering. Asking questions is the gateway for being a strong communicator, and it is aa good representative of the reputation you would like to hold. Eric S. Raymond’s essay “How to Ask Questions the Smart Way” emphasizes that the ability to ask clear, well formed questions not only increases the chances of receiving useful answers but also contributes to personal growth and community knowledge.
+Communication is a cornerstone of software engineering. Asking questions is the gateway for being a strong communicator, and it is a good representative of the reputation you would like to hold. Eric S. Raymond’s essay “How to Ask Questions the Smart Way” emphasizes that the ability to ask clear, well formed questions not only increases the chances of receiving useful answers but also contributes to personal growth and community knowledge.
 
 This essay examines two real world examples from StackOverflow one that embodies the principles of smart questioning and another that illustrates minor pitfalls when those principles are ignored. By comparing these cases, we can see how the quality of questions affects the efficiency and effectiveness of community responses, and why mastering the art of smart questions makes informatic topics click for everyone involved.
 
