@@ -1,10 +1,10 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Questions that Click"
 # All dates must be YYYY-MM-DD format!
-date: 2015-09-08
-published: false
+date: 2025-6-13
+published: true
 labels:
   - Questions
   - Answers
@@ -13,87 +13,53 @@ labels:
 
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
-## Is there such thing as a stupid question?
+## Why Questions Matter
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+Communication is a cornerstone of software engineering. There is rarely any case in which you would not be talking to someone. This includes asking someone for some bit of help. Eric S. Raymond’s essay “How to Ask Questions the Smart Way” emphasizes that the ability to ask clear, well formed questions not only increases the chances of receiving useful answers but also contributes to personal growth and community knowledge.
 
-## What’s a smart question?
+This essay examines two real world examples from StackOverflow one that embodies the principles of smart questioning and another that illustrates minor pitfalls when those principles are ignored. By comparing these cases, we can see how the quality of questions affects the efficiency and effectiveness of community responses, and why mastering the art of smart questions makes informatic topics click for everyone involved.
 
-Stack Overflow, a question and answer site for programmers, is a great resource for anyone who may have issues with code or who may simply want to learn new or different methods of doing something. There I found examples of good questions and bad questions, which could probably be improved.
 
-In the following example, we examine the components of a decent question. In this case, the asker is trying to figure out a way to get the date of the previous month in Python.
+## Making a Question Click
 
-```
-Q: python date of the previous month
+Smart questions demonstrate effort, clarity, and respect for the reader’s time. To make a question click for yourself and others they should often include:
 
-I am trying to get the date of the previous month with python. Here is what i've tried:
+1) A clear problem statement.
+2) Relevant background and code samples.
+3) A description of what the asker has already tried.
+4) Specific details about the environment or context.
+5) Politeness and humility.
+   
+As Raymond notes, these qualities not only attract more knowledgeable and helpful answers but also promotes a positive learning environment. Poor formulated questions can lead to misunderstandings and even more hostile responses.
 
-str( time.strftime('%Y') ) + str( int(time.strftime('%m'))-1 )
 
-However, this way is bad for 2 reasons: First it returns 20122 for the February of 2012 (instead of 201202) 
-and secondly it will return 0 instead of 12 on January.
+## A Smart Question
 
-I have solved this trouble in bash with:
+“How do I resize banners to fit nicely on mobile?”
 
-echo $(date -d"3 month ago" "+%G%m%d")
+From first glance it may seem like the asker is seeking for an answer, but they do so in a polite manner. They explain that they are building a personal website with image and video banners. They observe that banners look good on desktop but are cropped on mobile devices. The question includes snippets of HTML and CSS code, explains the problem clearly, and shows the CSS adjustments they’ve tried. The asker also mentions media queries and a willingness to provide more code if needed.
 
-I think that if bash has a built-in way for this purpose, then python, much more equipped, should provide something 
-better than forcing writing one's own script to achieve this goal. Of course i could do something like:
+The answers provides a clear explanation as to why their issue is occurring. They provide targeted suggestions, JavaScript solutions and real code examples. The answer is clear, educational, and respectful, showing that the question’s quality invited helpful and efficient answers.
 
-if int(time.strftime('%m')) == 1:
-    return '12'
-else:
-    if int(time.strftime('%m')) < 10:
-        return '0'+str(time.strftime('%m')-1)
-    else:
-        return str(time.strftime('%m') -1)
-        
-I have not tested this code and i don't want to use it anyway (unless I can't find any other way:/)
+Link to Question:
 
-Thanks for your help!
-```
+[stack overflow page](https://stackoverflow.com/questions/79665490/how-do-i-resize-banners-to-fit-nicely-on-mobile)
 
-While the heading of his question could be better, it does convey what he’s trying to figure out. Usually something as brief as “python date of previous month” is what other users would enter in as search terms on Google, making it easily found. Another good thing about the question is that it’s not just a question. The asker shows what he or she has done and that he or she has put in some effort to answer the question. And while it may not be as important as the question itself, the asker shows courtesy, which does increase the chance of getting an answer.
 
-```
-A: datetime and the datetime.timedelta classes are your friend.
+## A Not So Smart Question
 
-1. find today
-2. use that to find the first day of this month.
-3. use timedelta to backup a single day, to the last day of the previous month.
-4. print the YYYYMM string you're looking for.
+“simple code doesn’t work. Dunno why”
 
-Like this:
+That is a real question a user put up. Anyone reading that alone has none of the vaguest ideas regarding the problem the asker is asking. In the body of the post, the asker explains they bought a new mac and that their code shows an implicit declaration error. The asker states "I do not understand why this simple code doesn't work". There is no clear problem statement, no evidence of prior research or debugging, and the asker essentially demands help without effort. It also gives off the impression that the asker is blaming the tools involved rather than anything they did. 
 
- >>> import datetime
- >>> today = datetime.date.today()
- >>> first = datetime.date(day=1, month=today.month, year=today.year)
- >>> lastMonth = first - datetime.timedelta(days=1)
- >>> print lastMonth.strftime("%Y%m")
- 201202
- >>>
+The answer response to the question is straightforward. It is simple with one line of fix and they don’t explain any more than the answer. It feels like if more of the problem was shared, it would have been a better learning experience for the asker and other people. The question has 2 downvotes and is now closed, which shows that it was a question that required a quick fix and did not provide any meaningful discussion.
 
-```
+Link to question
+[stack overflow page](https://stackoverflow.com/questions/21605812/simple-code-doesnt-work-dunno-why)
+
  
-The asker received six possible answers, and he or she was successful in inciting discussion from multiple users. The answers themselves were clear and were devoid of the rumored sarcasm and hostility of “hackers.” Since I myself have referenced this page and found it useful, I can confidently say that it is a good question.
+## Final Thoughts
 
-## The foolproof way to get ignored.
+For software engineers, communication is a fundamental skill. The ability to ask smart questions can accelerate problem solving, reduce frustration, and build reputation within communities. Studying examples from platforms like StackOverflow and applying Raymond’s guidelines can significantly enhance one’s effectiveness as both a learner and collaborator. As a learner myself, it's important to ask questions. However, to make the learning process flow easier and hard topics click, it's the quality of the questions that matters the most. 
 
-While there are decent questions that benefit everyone, there are those one can ask to create an entirely different effect. In the following example, a user asks how he would, in short, create a desktop application with Facebook.
-
-```
-Q: Facebook Desktop Notifier
-
-I am a beginner programmer that have never used anything other than what's included in a language.
-
-I am trying to create a desktop application that notifies me anytime I get an update onfacebook. 
-How should go about doing this? Thanks in advance.
-
-edit Sorry I was not clear. Is there any way to make a DESKTOP application with facebook?
-```
-
-A simple “yes” would have answered the question, but we know that’s not the sort of answer he or she is looking for. Fortunately, someone kindly responded with a link to Facebook’s developer website. The asker should have done more research on his or her potential project. Then further down the road, he or she could have asked more specific and detailed questions that wouldn’t require a thousand-paged response for a sufficient answer.
-
-## Conclusion
-
-When we rely on others’ generosity and expertise to provide answers to our questions, it should hold that the question we ask should be one that leads to efficient and effective help that not only benefits us, but also the people we ask and others who might ask the same question in the future. Thus, if you have a question… make it a smart one! Asking questions may not always get you the best answer, but asking them in a way that will make others want to answer them will increase the success of finding a good solution and make it a positive experience on all sides.
+Mahalo for listening.
