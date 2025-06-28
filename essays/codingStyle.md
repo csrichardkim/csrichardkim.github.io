@@ -30,5 +30,6 @@ Coding standards may not sound exciting, but once you start using them in your p
 
 
 
+## Note on AI
 
-AI used for formatting, and ironically grammar. 
+AI used for formatting, and ironically grammar.
