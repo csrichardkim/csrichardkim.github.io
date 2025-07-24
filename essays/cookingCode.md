@@ -21,6 +21,7 @@ If you've ever cooked a meal, you know that good food doesn’t happen by accide
 In the world of software development, we do something similar. We use design patterns, reusable solutions to common problems. Like the best cooking methods, design patterns aren’t fixed recipes. They’re more like flexible guidelines proven to help us work efficiently. Developers may not always know they are using them. However, it is an essential part of being a developer and something everyone can incorporate in their own kitchen space.
 
 Some common examples include:
+
 -Prototype Pattern: Like making one great sauce and using it as a base for multiple dishes. In code, you create one object and clone it instead of starting from scratch every time.
 - Reactive Pattern: Like adjusting the heat when food starts to bubble too fast. In code, this means your interface responds to data changes instantly no manual refresh needed.
 - Front Controller Pattern: Like a kitchen expediter who directs all orders through one central point before they go out. In web apps, it’s the pattern of routing all user requests through one handler.
