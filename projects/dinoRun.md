@@ -9,8 +9,12 @@ labels:
   - GDevlop
   - JavaScript
     
-summary: "An endless runner game for accessibility"
+summary: "An endless runner game teaching accessibility"
 ---
+
+<div class="text-center p-4">
+  <img src="../img/DinoRunImg.png" style="max-width: 400px; width: 100%;" class="img-thumbnail mb-3" alt="Main preview image">
+</div>
 
 <div class="text-center p-4">
   <img width="200px" src="../img/DinoRunImg.png" class="img-thumbnail" >
