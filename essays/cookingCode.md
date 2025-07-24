@@ -9,6 +9,8 @@ labels:
   - Design patterns
 ---
 
+<img width="300px" class="rounded float-start pe-4" src="../img/cooking.jpeg.crdownload"
+
 ## Cooking in Code
 
 If you've ever cooked a meal, you know that good food doesn’t happen by accident. Even simple dishes like pasta or stir fry follow patterns: preheat the pan, chop your ingredients, season as you go, and don’t burn the onions. Experienced cooks don’t follow step by step instructions every time, what they do follow are techniques and structures that work across many recipes.
@@ -44,4 +46,4 @@ Chefs are developers of taste. In the same way great cooks rely on consistent me
 
 ## Note on AI
 
-AI used for formatting, and ironically grammar.
+AI used for formatting
