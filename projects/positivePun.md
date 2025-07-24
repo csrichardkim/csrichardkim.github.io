@@ -14,10 +14,11 @@ summary: "A chrome extension that shows AI generated insults every 1 or 10 minut
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/PositivePunBegin.png" class="img-thumbnail" >
-  <img width="200px" src="../img/PositivePunLoad.png" class="img-thumbnail" >
-  <img width="200px" src="../img/PositivePunFinish.png" class="img-thumbnail" >
+  <img src="../img/PositivePunBegin.png" width="200" height="200" class="img-thumbnail" >
+  <img src="../img/PositivePunLoad.png" width="200" height="200" class="img-thumbnail" >
+  <img src="../img/PositivePunFinal.png" width="200" height="200" class="img-thumbnail" >
 </div>
+
 
 
 Positive Punishment is a simple chrome extension timer that generates AI made insults and cat images to help motivate students. 
