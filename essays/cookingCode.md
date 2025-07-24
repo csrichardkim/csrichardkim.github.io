@@ -9,7 +9,7 @@ labels:
   - Design patterns
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/cooking.jpg"
+<img width="400px" class="rounded float-start pe-4" src="../img/cooking.jpg">
 
 ## Cooking in Code
 
