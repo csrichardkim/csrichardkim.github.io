@@ -22,7 +22,7 @@ In the world of software development, we do something similar. We use design pat
 
 Some common examples include:
 
--Prototype Pattern: Like making one great sauce and using it as a base for multiple dishes. In code, you create one object and clone it instead of starting from scratch every time.
+- Prototype Pattern: Like making one great sauce and using it as a base for multiple dishes. In code, you create one object and clone it instead of starting from scratch every time.
 - Reactive Pattern: Like adjusting the heat when food starts to bubble too fast. In code, this means your interface responds to data changes instantly no manual refresh needed.
 - Front Controller Pattern: Like a kitchen expediter who directs all orders through one central point before they go out. In web apps, it’s the pattern of routing all user requests through one handler.
 
