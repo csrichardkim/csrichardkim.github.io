@@ -12,7 +12,7 @@ labels:
 ---
 
 <div class="text-center mt-5 mb-5">
-  <img src="../img/question.png" width="400px" class="img-fluid rounded" alt="Question Mark image">
+  <img src="../img/question.jpg" width="400px" class="img-fluid rounded" alt="Question Mark image">
 </div>
 
 ## Why Questions Matter
