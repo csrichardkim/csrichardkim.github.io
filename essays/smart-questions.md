@@ -11,7 +11,9 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/images-72.jpeg.crdownload">
+<div class="text-center mt-5 mb-5">
+  <img src="../img/question.png" width="400px" class="img-fluid rounded" alt="Question Mark image">
+</div>
 
 ## Why Questions Matter
 
