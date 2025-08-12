@@ -13,14 +13,13 @@ labels:
   <img src="../img/ai.jpg" width="400px" class="img-fluid rounded" alt="AI image">
 </div>
 
-<small>Sections (I)<small>
 
 Artificial Intelligence has become a common presence in education and many people are seeking to maximize its benefits. However, the issue many find themselves in is overreliance. The reason for this common occurance is not because AI isn't a great learning tool, it's because many users take the wrong approach to using AI. To incorporate these amazing tools into our learning space we have to approach AI as a collaborative partner. In order to work with AI we have to let them shine in the parts they’re best at.
 
 In ICS 314, I have used multitudes of AI tools most of which were Claude and GitHub Copilot. I’ve used different prompts from clarifying and explaining to a “do this” approach. I found from these experiences that there is a way to use AI that benefits everyone’s learning process. Below, I reflect on each course element and describe how I did or did not use AI, providing specific prompts and examples where possible.
 
 <div style="margin-top:20px;"></div>
-## Prompting AI <small>Sections (II, III, IV, V)<small>
+## Prompting AI (I, II, III, IV, V)
 <div style="margin-top:20px;"></div>
 
 **Experience WODs**
@@ -50,7 +49,7 @@ Projects are where AI tools become most like a partner. You can use AI tools to 
 The main takeaway here is that in order for AI to shine, you have to choose what goes in and what goes out. The time AI starts to become problematic is the moment you hand them the reign of the decisions for your project. You are the creator and the one building the website, so give yourself more credit and take ownership of the things that you create. That way you can fully say that you created this.
 
 <div style="margin-top:20px;"></div>
-## Final Thoughts <small>Sections (VI, VII, VIII)<small>
+## Final Thoughts (VI, VII, VIII)
 <div style="margin-top:20px;"></div>
 
 My experience in ICS 314 showed me that AI’s impact on learning depends entirely on how it’s used. We’ve seen multiple examples of ways that minimizes the learning process with AI, and examples on making AI shine. We often times forget that we are constant learners ourselves. It’s important for all of us to take into consideration what AI offers us, but never put it above ourselves and what we capable of doing. AI will fully escape us in software engineering, and that is okay. As long as there is consciousness in the way we use and manage the tools given to us, we can only go up from here.
