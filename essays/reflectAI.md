@@ -20,8 +20,8 @@ In ICS 314, I have used multitudes of AI tools most of which were Claude and Git
 
 <br><div style="margin-top:20px;"></div>
 ## Prompting AI 
-Sections (I, II, III, IV, V)
-<div style="margin-top:10px;"></div>
+<small>Sections (I, II, III, IV, V)<small>
+<div style="margin-top:20px;"></div>
 
 **Experience WODs**
 
@@ -51,8 +51,8 @@ The main takeaway here is that in order for AI to shine, you have to choose what
 
 <div style="margin-top:20px;"></div>
 ## Final Thoughts 
-Sections (VI, VII, VIII)
-<div style="margin-top:10px;"></div>
+<small>Sections (VI, VII, VIII)<small>
+<div style="margin-top:20px;"></div>
 
 My experience in ICS 314 showed me that AI’s impact on learning depends entirely on how it’s used. We’ve seen multiple examples of ways that minimizes the learning process with AI, and examples on making AI shine. We often times forget that we are constant learners ourselves. It’s important for all of us to take into consideration what AI offers us, but never put it above ourselves and what we capable of doing. AI will fully escape us in software engineering, and that is okay. As long as there is consciousness in the way we use and manage the tools given to us, we can only go up from here.
 
