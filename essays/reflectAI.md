@@ -19,7 +19,7 @@ Artificial Intelligence has become a common presence in education and many peopl
 In ICS 314, I have used multitudes of AI tools most of which were Claude and GitHub Copilot. I’ve used different prompts from clarifying and explaining to a “do this” approach. I found from these experiences that there is a way to use AI that benefits everyone’s learning process. Below, I reflect on each course element and describe how I did or did not use AI, providing specific prompts and examples where possible.
 
 <div style="margin-top:20px;"></div>
-## Prompting AI (I, II, III, IV, V)
+## Prompts (I, II, III, IV, V)
 <div style="margin-top:20px;"></div>
 
 **Experience WODs**
