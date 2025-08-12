@@ -18,8 +18,7 @@ When I first started ICS 314, I thought the course would be about building web a
 
 The start of the semester I was definitely in the headspace where I thought the syntax and tech stack being used was the most important thing to learn. Now that I've shifted my mindset to focusing more on the processes and practices of being a software engineer, the topics of the class feels a lot more digestable. I have noticed that building projects also tend feel more cohesive and I'm able to recognize patterns from other projects in the past. The syntax, the languages are all definitely needed tools, but to implement them is the most important thing. There are a few specific lessons I've learned in this class that I thought really emphasized these thoughts. The two includes design patterns and ethics. These are practices away from coding, and truly delves into things outside of just a classroom.
                                                                                                                                                                  
-<br>
-
+<div style="margin-top:20px;"></div>
 ### Design Patterns
 <div style="margin-top:20px;"></div>
 
@@ -29,7 +28,7 @@ Having structure and purpose in the way you build, makes it not only easier to a
 
 I also truly believe this topic was useful in getting someone to think outside of just the final product. As a software engineer, you should be able to consider the entire landscape of what you are trying to create, and format it in a way of steps for people to understand. These steps means you know how to do something and you are able to put those thoughts into words.
 
-
+<div style="margin-top:20px;"></div>
 ### Ethics
 <div style="margin-top:20px;"></div>
               
@@ -39,6 +38,7 @@ The other type of ethics is workplace ethics. Development involves collaboration
 
 Knowing how to communicate with the users and know what product they want is important. Working alongside coworkers and understanding each others work makes everything run smoother. Doing all of this in a way that proceeds with kindness and efficiency, is something every engineer should be seeking to incorporate. So I definitely thought this was a topic different to web design, but tailored to the workplace eniornment. Having the intelligence on how actions affct things outside of code and with people, is something very important.
 
+<div style="margin-top:20px;"></div>
 ### Beyond the Classroom
 <div style="margin-top:20px;"></div>
         
