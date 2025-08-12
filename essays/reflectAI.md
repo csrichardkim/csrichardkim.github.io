@@ -18,7 +18,7 @@ Artificial Intelligence has become a common presence in education and many peopl
 
 In ICS 314, I have used multitudes of AI tools most of which were Claude and GitHub Copilot. I’ve used different prompts from clarifying and explaining to a “do this” approach. I found from these experiences that there is a way to use AI that benefits everyone’s learning process. Below, I reflect on each course element and describe how I did or did not use AI, providing specific prompts and examples where possible.
 
-<br>
+<br><div style="margin-top:20px;"></div>
 ## Prompting AI
 <div style="margin-top:10px;"></div>
 
@@ -48,7 +48,7 @@ Projects are where AI tools become most like a partner. You can use AI tools to 
 
 The main takeaway here is that in order for AI to shine, you have to choose what goes in and what goes out. The time AI starts to become problematic is the moment you hand them the reign of the decisions for your project. You are the creator and the one building the website, so give yourself more credit and take ownership of the things that you create. That way you can fully say that you created this.
 
-              
+<div style="margin-top:20px;"></div>
 ## Final Thoughts
 <div style="margin-top:10px;"></div>
 
