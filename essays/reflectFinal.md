@@ -11,7 +11,7 @@ labels:
 ---
 
 <div class="text-center mt-5 mb-5">
-  <img src="../img/reflectFinal.jpg" width="400px" class="img-fluid rounded" alt="AI image">
+  <img src="../img//essays/reflectFinal.jpg" width="400px" class="img-fluid rounded" alt="Final image">
 </div>
 
 When I first started ICS 314, I thought the course would be about building web applications. 

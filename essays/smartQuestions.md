@@ -12,7 +12,7 @@ labels:
 ---
 
 <div class="text-center mt-5 mb-5">
-  <img src="../img/essays/question.jpg" width="400px" class="img-fluid rounded" alt="Question Mark image">
+  <img src="../img/essays/question.jpg" width="400px" class="img-fluid rounded" alt="Cooking image">
 </div>
 
 <div style="margin-top:20px;"></div>
