@@ -14,7 +14,7 @@ summary: "A fun chrome extension that shows AI generated insults every 1 or 10 m
 ---
 
 <div class="text-center p-4">
-  <img src="../img/projects/positivePun/logo.png" style="max-width: 400px; width: 100%;" class="img-thumbnail mb-3" alt="Main preview image">
+  <img src="../img/projects/positivePun/start.png" style="max-width: 400px; width: 100%;" class="img-thumbnail mb-3" alt="Main preview image">
 </div>
 
 <br> 
