@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/campusClubhouse.png
+image: img/projects/campusClubhouse/logo.png
 title: "Campus Clubhouse"
 date: 2025
 published: true
@@ -13,7 +13,7 @@ summary: "Final Project for ICS 314"
 ---
 
 <div class="text-center p-4">
-  <img src="../img/projects/campusClubhouse/landing.png" style="max-width: 400px; width: 100%;" class="img-thumbnail mb-3" alt="Main preview image">
+  <img src="../img/projects/campusClubhouse/landing.png" style="max-width: 1000px; width: 100%;" class="img-thumbnail mb-3" alt="Main preview image">
 </div>
 
 
@@ -24,7 +24,9 @@ It is designed to be an easy way for students to discover UH Mānoa's oficial an
 The website uses a front end tech stack including a **Next.js** framework, a **PostgreSQL** database, and **Vercel** for deployment.
 
 
-To learn more check out our github.io page [here](https://campus-clubhouse.github.io/)!
+To learn more check out our github.io page by clicking the link below.
+
+[Link to our Campus Clubhouse Project Page](https://campus-clubhouse.github.io/)!
 
 
 <br>
@@ -36,7 +38,7 @@ This project was a collaboritve effort with two other members. I was desginated 
 ## Landing Page
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/projects/campusClubhouse/landing.png" class="img-thumbnail" >
+  <img width="100%" src="../img/projects/campusClubhouse/landing.png" class="img-thumbnail" >
 </div>
 
 This is the first page for users to see and will be the basis of design for the rest of the website. 
@@ -50,7 +52,7 @@ I've ran through a couple of different color coordinations and background images
 ## Profile Page
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/projects/campusClubhouse/profile.png" class="img-thumbnail" >
+  <img width="100%" src="../img/projects/campusClubhouse/profile.png" class="img-thumbnail" >
 </div>
 
 The profile page's main function is to be the place for users to monitor their roles (user, admin, super).
@@ -64,7 +66,7 @@ The profile section also serves as a fun enhancement for all users to showcase w
 ## Documentation
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/projects/campusClubhouse/github.png" class="img-thumbnail" >
+  <img width="100%" src="../img/projects/campusClubhouse/github.png" class="img-thumbnail" >
 </div>
 
 I was also issued to layout the github repos, projects, and deploy our app to vercel. 
@@ -100,11 +102,7 @@ There should be a seperate section in which security of the page can be discusse
 <br>
 
 
-This final project was designed for us to test our development processes.
- 
-A lot of my personal learning definitely dipped more into the non-coding enviornment.  There was a lot more planning, communicating and deployment issues that I haven't thought about beforehand. 
-
-It was also fun to collaborate with a team and have the opportunity to build with others. Even though much of our communication was aynchronous, it was definitely the best part of the project.
+This final project was designed for us to test our development processes A lot of my personal learning definitely dipped more into the non-coding enviornment.  There was a lot more planning, communicating and deployment issues that I haven't thought about beforehand. It was also fun to collaborate with a team and have the opportunity to build with others. Even though much of our communication was aynchronous, it was definitely the best part of the project.
 
 
 
