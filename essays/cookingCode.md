@@ -10,7 +10,7 @@ labels:
 ---
 
 <div class="text-center mt-5 mb-5">
-  <img src="../img/cookingcode.png" width="400px" class="img-fluid rounded" alt="Cooking image">
+  <img src="../img/essays/cookingcode.png" width="400px" class="img-fluid rounded" alt="Cooking image">
 </div>
 
 

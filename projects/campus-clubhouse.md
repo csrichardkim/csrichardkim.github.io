@@ -7,7 +7,6 @@ date: 2025
 published: true
 labels:
   - Web Development
-  - Next.js
   - Vercel
     
 summary: "Final Project for ICS 314"
@@ -25,9 +24,7 @@ It is designed to be an easy way for students to discover UH Mānoa's oficial an
 The website uses a front end tech stack including a **Next.js** framework, a **PostgreSQL** database, and **Vercel** for deployment.
 
 
-To learn more check out our github.io page here:
-
-https://campus-clubhouse.github.io/
+To learn more check out our github.io page [here](https://campus-clubhouse.github.io/)!
 
 
 <br>
@@ -80,20 +77,23 @@ It was during this time in which we also began to learn IDPM, or issue driven pr
 
 ## Enhancements
 
-This project was designed to be a mockup, but may be reusable for future uses. In this case there are amounts of enhancements that we have recognized.
-
+This project was designed to be a mockup, but may be reusable for future uses. In this case there are amounts of enhancements that we have recognized. 
 Some key enhancements for future references:
 
 **Connecting to the PostgreSQL database**
+
 The database should contain a table with a list of signed in users, their roles and the clubs they potentially own.
 
 **Feeding real data from a list of clubs (200+)**
+
 The clubs being filled in can be created two ways. Either filled in using our add page created for club owners, or filled in by another list of clubs.
 
 **Completing the "Super" role**
+
 There should be a seperate page dedicated to the role which moderates all clubs and provides users their roles.
 
 **Security**
+
 There should be a seperate section in which security of the page can be discussed.
 
 

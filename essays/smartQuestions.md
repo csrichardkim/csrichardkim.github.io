@@ -12,10 +12,12 @@ labels:
 ---
 
 <div class="text-center mt-5 mb-5">
-  <img src="../img/question.jpg" width="400px" class="img-fluid rounded" alt="Question Mark image">
+  <img src="../img/essays/question.jpg" width="400px" class="img-fluid rounded" alt="Question Mark image">
 </div>
 
+<div style="margin-top:20px;"></div>
 ## Why Questions Matter
+<div style="margin-top:20px;"></div>
 
 Communication is a cornerstone of software engineering. Asking questions is the gateway for being a strong communicator, and it is a good representative of the reputation you would like to hold. Eric S. Raymond’s essay “How to Ask Questions the Smart Way” emphasizes that the ability to ask clear, well formed questions not only increases the chances of receiving useful answers but also contributes to personal growth and community knowledge.
 
@@ -34,12 +36,13 @@ Smart questions demonstrate effort, clarity, and respect for the reader’s time
    
 As Raymond notes, these qualities not only attract more knowledgeable and helpful answers but also promotes a positive learning environment. Poor formulated questions can lead to misunderstandings and even more hostile responses.
 
-
-## A Smart Question
+<div style="margin-top:20px;"></div>
+## A 'Smart' Question
+<div style="margin-top:20px;"></div>
 
 “How do I resize banners to fit nicely on mobile?”
 
-From first glance it may seem like the asker is seeking for an answer, but they do so in a polite manner. They explain that they are building a personal website with image and video banners. They observe that banners look good on desktop but are cropped on mobile devices. The question includes snippets of HTML and CSS code, explains the problem clearly, and shows the CSS adjustments they’ve tried. The asker also mentions media queries and a willingness to provide more code if needed.
+From first glance it may seem like the asker is seeking for an answer, but they do so in a specific manner and with added explanation. They  explain that they are building a personal website with image and video banners. They observe that banners look good on desktop but are cropped on mobile devices. The question includes snippets of HTML and CSS code, explains the problem clearly, and shows the CSS adjustments they’ve tried. The asker also mentions media queries and a willingness to provide more code if needed.
 
 The answers provides a clear explanation as to why their issue is occurring. They provide targeted suggestions, JavaScript solutions and real code examples. The answer is clear, educational, and respectful, showing that the question’s quality invited helpful and efficient answers.
 
@@ -47,8 +50,9 @@ Link to Question:
 
 [A Smart Quesiton](https://stackoverflow.com/questions/79665490/how-do-i-resize-banners-to-fit-nicely-on-mobile)
 
-
-## A Not So Smart Question
+<div style="margin-top:20px;"></div>
+## A 'Not So Smart' Question
+<div style="margin-top:20px;"></div>
 
 “simple code doesn’t work. Dunno why”
 
@@ -60,12 +64,12 @@ Link to Question:
 
 [A Not So Smart Question](https://stackoverflow.com/questions/21605812/simple-code-doesnt-work-dunno-why)
 
- 
+<div style="margin-top:20px;"></div>
 ## Final Thoughts
+<div style="margin-top:20px;"></div>
 
-For software engineers, communication is a fundamental skill. The ability to ask smart questions can accelerate problem solving, reduce frustration, and build reputation within communities. Studying examples from platforms like StackOverflow and applying Raymond’s guidelines can significantly enhance one’s effectiveness as both a learner and collaborator. As a learner myself, it's important to ask questions. However, to make the learning process flow easier and hard topics click, it's the quality of the questions that matters the most. 
+For software engineers, communication is a fundamental skill. The ability to ask smart questions can accelerate problem solving, reduce frustration, and build reputation within communities. 
 
-Mahalo for listening.
+Studying examples from platforms like StackOverflow and applying Raymond’s guidelines can significantly enhance one’s effectiveness as both a learner and collaborator. As a learner myself, it's important to ask questions. However, to make the learning process flow easier and hard topics click it's the quality of the questions that matters the most.
 
-
-This essay does not include the use of AI.
+This essay does not contain the use of AI.
