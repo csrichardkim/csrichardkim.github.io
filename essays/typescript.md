@@ -4,14 +4,14 @@ type: essay
 title: "From Java to Typescript"
 # All dates must be YYYY-MM-DD format!
 date: 2025-6-6
-published: true
+published: false
 labels:
   - Typescript
 ---
 
 My first encounter with TypeScript was from the perspective of a student who had learned Java throughout college. 
 
-Coming from an object oriented, strongly typed programming background, TypeScript was quite a nice surprise. Although it builds on top of JavaScript which is dynamically typed and loosely structured, TypeScript manages to bridge the gap between ease of scripting and the more serious aspects of formal software engineering. I quickly noticed that TypeScript function calls and class structures bore strong similarities to how Java handles object oriented design, which made the learning curve less steep and frankly enjoyable.
+Coming from an object oriented, strongly typed programming background, TypeScript was quite a nice surprise. Although it builds on top of JavaScript which is dynamically typed, TypeScript manages to bridge the gap between ease of scripting and the more serious aspects of formal software engineering. I quickly noticed that TypeScript function calls and class structures bore strong similarities to how Java handles object oriented design, which made the learning curve less steep and frankly enjoyable.
 
 
 ## Comparing the Two
