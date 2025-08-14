@@ -41,7 +41,14 @@ Upon hovering above the different accessibiliy option, a 'learn more' button wil
 In this project I gained experience with accessibiltiy. Research on how to produce usable applications that is inclusive to the most amount of people is a topic undermined, but important in the way developers create. 
 
 If you are interested on this topic follow the link below to see my presentation slideshow that contains further information.
-<br> 
+<br>
+
 [Link to Accessibility in Video Games Slideshow](https://docs.google.com/presentation/d/1ms5po9lYsyh1mrPeyneh7JIElXhj_s4bb6N2_kQIM10/edit?usp=sharing)
 
+[Link to Check out the Video Game](https://docs.google.com/presentation/d/1ms5po9lYsyh1mrPeyneh7JIElXhj_s4bb6N2_kQIM10/edit?usp=sharing)
 
+<br>
+
+<div class="text-center p-4">
+  <img src="../img/projects/dinoRun/over.png" style="max-width: 400px; width: 100%;" class="img-thumbnail mb-3" alt="Main preview image">
+</div>

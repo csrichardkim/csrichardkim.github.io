@@ -6,9 +6,8 @@ title: "Questions that Click"
 date: 2025-6-13
 published: true
 labels:
-  - Questions
-  - Answers
   - StackOverflow
+  - SMART Questions
 ---
 
 <div class="text-center mt-5 mb-5">

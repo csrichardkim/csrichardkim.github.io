@@ -21,7 +21,7 @@ The issue many find themselves in however, is overreliance.
 That is mainly due to the wrong approach when it comes to using AI and why so many find AI to be detrimental to their learning process. To fully incorporate these amazing tools we have to approach them as a collaborative partner and let AI shine in the parts they’re best at. 
 
 <div style="margin-top:20px;"></div>
-## I. Introduction
+## Introduction
 <div style="margin-top:20px;"></div>
 
 In ICS 314, I have used AI tools most of which were Claude and GitHub Copilot. I’ve used a range of prompts from clarifying and explaining to a “do this” approach. I found from these experiences that there is a way to use AI that benefits everyone’s learning process. 
@@ -29,7 +29,7 @@ In ICS 314, I have used AI tools most of which were Claude and GitHub Copilot. I
 Below, I reflect on each course element and describe how I did or did not use AI, providing specific prompts and examples where possible.
 
 <div style="margin-top:20px;"></div>
-## II. Promptings AI 
+## Promptings AI 
 <div style="margin-top:20px;"></div>
 
 ### Experience WODs
