@@ -71,4 +71,6 @@ For software engineers, communication is a fundamental skill. The ability to ask
 
 Studying examples from platforms like StackOverflow and applying Raymond’s guidelines can significantly enhance one’s effectiveness as both a learner and collaborator. As a learner myself, it's important to ask questions. However, to make the learning process flow easier and hard topics click it's the quality of the questions that matters the most.
 
+<br>
+
 This essay does not contain the use of AI.
