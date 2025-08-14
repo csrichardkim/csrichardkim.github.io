@@ -28,11 +28,12 @@ In ICS 314, I have used AI tools most of which were Claude and GitHub Copilot. I
 
 Below, I reflect on each course element and describe how I did or did not use AI, providing specific prompts and examples where possible.
 
-<div style="margin-top:20px;"></div>
-## Promptings AI 
-<div style="margin-top:20px;"></div>
+<br>
+## Prompts (Sections I, II, III, IV)
+<br>
 
-### Experience WODs
+**Experience WODs**
+<div style="margin-top:20px;"></div>
 For Experience WODs, upon finding an issue or gap in my knowledge I would watch the provided screencast solutions first. If the screencast didn’t fully answer my question, I would then check related threads on Stack Overflow. And then finally AI tools. 
 
 AI shines here because 
@@ -43,7 +44,7 @@ AI shines here because
 Due to AI’s quick lookup nature, it's very convincing to us that AI should be the first means of resource. However, it will not always be the best. Realizing you have options is powerful, and searching for something you’re curious about is a skill all software engineers need. 
 
 <div style="margin-top:20px;"></div>
-### In-class WODs 
+**In-class WODs** 
 <div style="margin-top:20px;"></div>
 
 When using AI to actually code, the amount of code you should prompt them with is important. 
@@ -60,7 +61,7 @@ By grounding your questions to the core concepts and asking questions regarding 
 
 
 <div style="margin-top:20px;"></div>
-### Essays
+**Essays**
 <div style="margin-top:20px;"></div>
 
 Essays are a good example of structure. It can be difficult when you’re unsure of where to start in your coding project or in this case essay.
@@ -68,13 +69,13 @@ Essays are a good example of structure. It can be difficult when you’re unsure
 You could look at a variety of resources and look at similar design structures but it might not be exactly what you’re looking for. So AI here is helpful. It can provide a roadmap of what you should be doing, and a layout of the different components of your project. AI shines here when it’s not fully building anything, but rather, reinforcing the ideas you have in your head and works as an organizer to aid in planning. 
 
 <div style="margin-top:20px;"></div>
-### Final Project
+**Final Project**
 <div style="margin-top:20px;"></div>
 
 Projects are where AI tools become most like a partner. You can use AI tools to provide a list of components and structure for your website reinforcing the prior planning you’ve done. You can use AI to provide syntax confusions and sometimes concepts that may be unfamiliar to you. In my case, AI often suggested debugging steps that I hadn’t thought of and that actually smoothened the process of debugging because it expanded my solving options. The main takeaway here is that in order for AI to shine, you have to choose what goes in and what goes out. The time AI becomes  problematic is the moment you hand them the reign of the decisions for your project. You are the creator and the one building the website, so give yourself more credit and take ownership of the things that you create. 
 
 <div style="margin-top:20px;"></div>
-## III. Conclusion
+## Conclusion (Sections V, VI, VI, VIII)
 <div style="margin-top:20px;"></div>
 
 My experience in ICS 314 showed me that AI’s impact on learning depends entirely on how it’s used. We’ve seen multiple examples of how AI should not be used, and examples of when they’re able to shine. We are all constant learners, so it’s important for all of us to take into consideration what AI does offer us and not let us turn away from it. As long as there is consciousness in the way we use and manage the tools given to us, we can only go up from here. Mahalo for listening. 
