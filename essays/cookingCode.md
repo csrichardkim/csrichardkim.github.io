@@ -14,8 +14,9 @@ labels:
 </div>
 
 
-
+<div style="margin-top:20px;"></div>
 ## Cooking in Code
+<div style="margin-top:20px;"></div>
 
 Preheat the pan, chop your ingredients, season as you go, and don’t burn the onions.
 
@@ -33,15 +34,20 @@ Some common examples of design patterns include:
 
 Once you learn these techniques, you start to see them everywhere, just like how a home cook learns to sauté before any good stew.
 
+<div style="margin-top:20px;"></div>
 ## Cooking a Final Project 
+<div style="margin-top:20px;"></div>
 
 Right now, I’m working on an ICS314 project: a centralized student club directory for UH Mānoa. The goal is to allow users to browse clubs by interest (like sports, STEM, or cultural orgs), and give club admins and super admins tools to manage listings. I’m building it with Next.js, PostgreSQL, and deploying it on Vercel. This project has shown me how essential design patterns are to keeping everything organized, functional, and scalable. 
 
 For this project I am using a version of the Prototype pattern when generating test data. I created one "template" club object, then reuse and modify it to mock up dozens of different entries. I use the Front Controller pattern through Next.js routing and the app.tsx file. It’s designed to process each page request, whether you're browsing clubs or logging in and perform some further action. The Reactive pattern is everywhere in the UI. When users search or apply filters, React updates the view instantly
 
-
+<div style="margin-top:20px;"></div>
 ## Conclusion
+<div style="margin-top:20px;"></div>
 
 Chefs are developers of taste. In the same way great cooks rely on consistent methods to whip up something delicious, great developers rely on design patterns to write clean, reliable code. In the end, both good food and good software come down to recognizing these design patterns and whipping up something beautiful. 
+
+<br> 
 
 AI used for formatting
