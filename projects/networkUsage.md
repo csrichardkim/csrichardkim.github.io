@@ -12,10 +12,6 @@ labels:
 summary: "Web Appplication for Netops Manoa"
 ---
 
-<div class="text-center p-4">
-  <img src="../img/projects/campusClubhouse/landing.png" style="max-width: 1000px; width: 100%;" class="img-thumbnail mb-3" alt="Main preview image">
-</div>
-
 *Project is currently under development.*
 
 The future development usage of 2.5ghz into 5ghz at the University of Hawaii Manoa is currently being researched by a graduate student of Manoa. I was asked to create a dashboard following their research, and for future usage under Netops. This dashboard will be used to store and update linear regressions models of network activity around campus. 
@@ -33,5 +29,9 @@ Page refreshes to ‘Results’, where users may now examine and interact with t
 
 
 <br>
+Template of what is visually depicted.
 
+<div class="text-center p-4">
+  <img src="../img/projects/dashboardTemplate.png" style="max-width: 1000px; width: 100%;" class="img-thumbnail mb-3" alt="Main preview image">
+</div>
  
