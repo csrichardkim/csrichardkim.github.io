@@ -7,7 +7,6 @@ date: 2025
 published: true
 labels:
   - React, Tailwind, Next.js, Postgresql
-  - Web Development
     
 summary: "Web Appplication for Netops Manoa"
 ---
