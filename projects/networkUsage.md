@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/projects/
+image: img/projects/dashboardTemplate.png
 title: "2.5ghz to 5ghz Network Usage"
 date: 2025
 published: true
