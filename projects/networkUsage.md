@@ -1,8 +1,8 @@
 ---
 layout: project
 type: project
-image: 
-title: "2.5ghz to 5ghz Network Usage"
+image: img/projects/networkUsage/itc.png
+title: "Network Usage (2.5ghz to 5ghz)"
 date: 2025
 published: true
 labels:
@@ -13,7 +13,7 @@ summary: "Web Appplication for Netops Manoa"
 
 *Project is currently under development.*
 
-The future development usage of 2.5ghz into 5ghz at the University of Hawaii Manoa is currently being researched by a graduate student of Manoa. I was asked to create a dashboard following their research, and for future usage under Netops. This dashboard will be used to store and update linear regressions models of network activity around campus. 
+The future development usage of 2.5ghz into 5ghz at the University of Hawaii Manoa is currently being researched by an MIS graduate student of Manoa. I was asked to create a dashboard following their research, and for future usage under Netops. This dashboard will be used to store and update linear regressions models of network activity around campus. 
 
 There are more than 250,000 data cells to be analyzed and distributed into the project's database. These linear regression models is hoped to be incoorperated with AI prediction models. 
 

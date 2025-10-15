@@ -4,7 +4,7 @@ type: essay
 title: "Make AI Shine"
 # All dates must be YYYY-MM-DD format!
 date: 2025-8-11
-published: true
+published: false
 labels:
   - AI
 ---
