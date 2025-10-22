@@ -31,6 +31,6 @@ Page refreshes to ‘Results’, where users may now examine and interact with t
 Template of what is visually depicted.
 
 <div class="text-center p-4">
-  <img src="../img/projects/dashboardTemplate.png" style="max-width: 1000px; width: 100%;" class="img-thumbnail mb-3" alt="Main preview image">
+  <img src="../img/projects/networkUsage/dashboardTemplate.png" style="max-width: 1000px; width: 100%;" class="img-thumbnail mb-3" alt="Main preview image">
 </div>
  
